@@ -1,3 +1,5 @@
+[12th friday exam ph. Ch.Bio.pdf](https://github.com/omsciencebadnapur/omsbadnapur.com/files/8694431/12th.friday.exam.ph.Ch.Bio.pdf)
+[Mywebsite.zip](https://github.com/omsciencebadnapur/omsbadnapur.com/files/8694432/Mywebsite.zip)
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/omsciencebadnapur/omsbadnapur.com/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
